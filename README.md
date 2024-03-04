@@ -1,6 +1,8 @@
 # End-of-year-Project :
 
-This code defines a PyTorch neural network model called TwoStreamLipNet. Here's a breakdown of its structure:
+![image](https://github.com/wissemkarous/End-of-year-Project/assets/115191512/77550a2c-cd60-424c-896b-c70daa47e549)
+
+TwoStreamLipNet. Here's a breakdown of its structure:
 
 Convolutional Layers and Pooling:
 
