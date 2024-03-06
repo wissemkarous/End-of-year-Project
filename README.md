@@ -31,6 +31,12 @@ Overall, this model is designed for tasks involving spatiotemporal data, utilizi
 ![image](https://github.com/wissemkarous/End-of-year-Project/assets/115191512/9e2d5755-af81-4c04-8746-63d9f26c858e)<br>
 ![image](https://github.com/wissemkarous/End-of-year-Project/assets/115191512/9d14249e-081a-4283-b7c5-ea8aa6d94ca4)<br>
 ![image](https://github.com/wissemkarous/End-of-year-Project/assets/115191512/2bf7dcbd-e0c7-454d-993a-2c0e92bbf000)
+#### Here : <br>
+
+![image](https://github.com/wissemkarous/End-of-year-Project/assets/115191512/3e3d5537-2570-408d-be27-476bade0e87e)
+
+We achieved a lowest WER of 1.7%, CER of 0.6% and a loss of 0.0256 on the validation dataset.
+
 
 
 
