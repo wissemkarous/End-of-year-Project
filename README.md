@@ -1,7 +1,9 @@
 # End-of-year-Project :
-Introduction :
+### Introduction :
 this  is an advanced neural network model designed for accurate lip reading by incorporating lip landmark coordinates as a supplementary input to the traditional image sequence input. This enhancement to the original LipReading  architecture aims to improve the precision of sentence predictions by providing additional geometric context to the model.
-
+### Features:
+Dual Input System: Utilizes both raw image sequences and corresponding lip landmark coordinates for improved context.<br>
+Enhanced Spatial Resolution: Improved spatial analysis of lip movements through detailed landmark tracking.<br>
 ![image](https://github.com/wissemkarous/End-of-year-Project/assets/115191512/77550a2c-cd60-424c-896b-c70daa47e549)
 
 TwoStreamLipNet. Here's a breakdown of its structure:
