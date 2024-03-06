@@ -28,7 +28,7 @@ Forward Method:
 The forward method defines the forward pass of the network. It takes two inputs, x (presumably some form of spatiotemporal data) and coords (lip coordinates), and processes them through the defined layers.
 Overall, this model is designed for tasks involving spatiotemporal data, utilizing both 3D convolutional layers and recurrent layers to capture relevant features.
 # Result : 
-![image](https://github.com/wissemkarous/End-of-year-Project/assets/115191512/9e2d5755-af81-4c04-8746-63d9f26c858e<br>
+![image](https://github.com/wissemkarous/End-of-year-Project/assets/115191512/9e2d5755-af81-4c04-8746-63d9f26c858e)<br>
 ![image](https://github.com/wissemkarous/End-of-year-Project/assets/115191512/9d14249e-081a-4283-b7c5-ea8aa6d94ca4)<br>
 ![image](https://github.com/wissemkarous/End-of-year-Project/assets/115191512/2bf7dcbd-e0c7-454d-993a-2c0e92bbf000)
 
