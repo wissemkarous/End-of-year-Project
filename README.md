@@ -44,6 +44,6 @@ We achieved a lowest WER of 1.7%, CER of 0.6% and a loss of 0.0256 on the valida
 ## DEMO :
 [Check The Link : ](https://huggingface.co/spaces/wissemkarous/PFA-Demo) <br>
 Huggingface spaces🤗<br>
-Author ©️ : wissem karous <br>
+Author ©️ : Wissem Karous <br>
 Made with ❤️
 
