@@ -10,13 +10,14 @@ st.set_page_config(layout="wide")
 
 model = load_model()
 
-st.title("LipCoordNet Demo")
+st.title("Lipreading final year project Demo")
 
 st.info(
-    "The inference speed is very slow on Huggingface spaces due to it being processed entirely on CPU. For a quicker inference, please clone the repository and change the “device” under options.py to “cuda” for local inference using GPU",
+    "The inference speed is very slow on Huggingface spaces due to it being processed entirely on CPU ",
     icon="ℹ️",
 )
-
+st.info("Author ©️ : wissem karous ")
+st.info("Made with ❤️  ")
 # Generating a list of options or videos
 options = os.listdir(os.path.join("app_input"))
 selected_video = st.selectbox("Choose video", options)
