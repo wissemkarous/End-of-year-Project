@@ -42,7 +42,7 @@ Overall, this model is designed for tasks involving spatiotemporal data, utilizi
 We achieved a lowest WER of 1.7%, CER of 0.6% and a loss of 0.0256 on the validation dataset.
 
 ## DEMO :
-[Check The Link : ](https://huggingface.co/spaces/wissemkarous/PFA-Demo) <br>
+[Check The Link  ](https://huggingface.co/spaces/wissemkarous/PFA-Demo) <br>
 Huggingface spaces🤗<br>
 Author ©️ : Wissem Karous <br>
 Made with ❤️
