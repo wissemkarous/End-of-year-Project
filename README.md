@@ -46,4 +46,4 @@ We achieved a lowest WER of 1.7%, CER of 0.6% and a loss of 0.0256 on the valida
 Huggingface spaces🤗<br>
 Author ©️ : Wissem Karous <br>
 Made with ❤️
-
+ 
